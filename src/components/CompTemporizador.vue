@@ -19,7 +19,7 @@
 <script lang="ts">
 
 import { defineComponent } from 'vue'
-import Cronometro from './Componente-Cronometro.vue'
+import Cronometro from './CompCronometro.vue'
 
 export default defineComponent ({
     name: "CompTemporizador",
